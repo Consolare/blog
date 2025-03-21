@@ -1,0 +1,31 @@
+# Blog Code Repository
+
+Questo repository contiene il codice sorgente del mio blog.
+
+## Contenuti
+
+- **index.html**: La pagina principale del blog.
+- **style.css**: Il file di stile per il blog.
+- **script.js**: Il file JavaScript per il blog.
+
+## Come Utilizzare
+
+1. Clona il repository:
+   ```sh
+   git clone https://github.com/Consolare/blog-code.git
+   ```
+
+2. Naviga nella directory del progetto:
+   ```sh
+   cd blog-code
+   ```
+
+3. Apri `index.html` in un browser per vedere il blog in azione.
+
+## Contribuire
+
+Se desideri contribuire al progetto, sentiti libero di fare una fork del repository e inviare una pull request con le tue modifiche.
+
+## Licenza
+
+Questo progetto è sotto la licenza MIT. Vedi il file [LICENSE](LICENSE) per maggiori dettagli.
